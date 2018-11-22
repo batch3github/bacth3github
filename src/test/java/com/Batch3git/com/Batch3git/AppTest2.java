@@ -8,6 +8,8 @@ public class AppTest2 {
 	public void test1fromApptest()
 	{
 		System.out.println("This is apptest2");
+		System.out.println("This is apptest3");
 	}
 
 }
+
